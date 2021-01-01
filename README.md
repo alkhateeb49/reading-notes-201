@@ -6,4 +6,4 @@
 * [Class 03](https://alkhateeb49.github.io/reading-notes-201/class-03)
 * [Class 04](https://alkhateeb49.github.io/reading-notes-201/class-04)
 * [Class 05](https://alkhateeb49.github.io/reading-notes-201/class-05)
-* [Class 06](https://alkhateeb49.github.io/reading-notes-201/)
+* [Class 06](https://alkhateeb49.github.io/reading-notes-201/class-06)
