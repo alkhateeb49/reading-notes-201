@@ -1,4 +1,4 @@
-# Class 9
+# Class 10
 
 ## JS
 * ### Error Handling & Debugging
