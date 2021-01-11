@@ -4,7 +4,7 @@
 
 **Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They’re easier to look at and convey data quickly, but they’re not always easy to create.**
 
-![Chart's](chart.png "chart")
+![Chart's](img/chart.png "chart")
 
 * Setting up
 
