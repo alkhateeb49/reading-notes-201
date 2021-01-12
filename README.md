@@ -14,3 +14,5 @@
 * [Class 11](https://alkhateeb49.github.io/reading-notes-201/class-11)
 * [Class 12](https://alkhateeb49.github.io/reading-notes-201/class-12)
 * [Class 13](https://alkhateeb49.github.io/reading-notes-201/class-13)
+* [Class 14 Read 14a](https://alkhateeb49.github.io/reading-notes-201/class-14a)
+* [Class 14 Read 14b](https://alkhateeb49.github.io/reading-notes-201/class-14b)
